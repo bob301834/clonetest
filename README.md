@@ -1,3 +1,4 @@
 # clonetest
 a
 b
+c
